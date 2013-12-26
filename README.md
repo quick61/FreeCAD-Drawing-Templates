@@ -32,7 +32,7 @@ The ISO set includes both Landscape and Portrait versions of the following:
 Other to-do
 
   * Create set of alternate Title Boxes to be used with templates
-  * Create alternate set to include North American Paper Sizes, German DIN 476, and JIS B series.
+  * Create alternate sets to include North American Paper Sizes, German DIN 476, and JIS B series.
 
 
 
