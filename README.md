@@ -18,15 +18,28 @@ The Arch set includes both Landscape and Portrait versions of the following:
 
 
 The ANSI set includes both Landscape and Portrait versions of the following:
+
   * ANSI A (Letter)
   * ANSI B (Ledger/Tabloid)
   * ANSI C
   * ANSI D
   * ANSI E
 
+
 The ISO set includes both Landscape and Portrait versions of the following:
 
+ * ISO A0
+ * ISO A1
+ * ISO A2
+ * ISO A3
+ * ISO A4
+ * ISO A5
+ * ISO A6-A10 omitted at this time due to their small size
+
 // TO - DO //
+ * ISO B series
+ * ISO C series
+ 
 
 
 Other to-do
