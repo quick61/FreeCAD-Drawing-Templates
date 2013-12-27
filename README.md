@@ -33,7 +33,7 @@ The ISO set includes both Landscape and Portrait versions of the following:
  * ISO A2
  * ISO A3
  * ISO A4
- * ISO A5
+ * ISO A5 (Title Block down scaled in both Landscape and Portrait templates)
  * ISO A6-A10 omitted at this time due to their small size
 
 // TO - DO //
