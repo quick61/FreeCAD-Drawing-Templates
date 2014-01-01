@@ -37,7 +37,7 @@ The ISO set includes both Landscape and Portrait versions of the following:
  * ISO A6-A10 omitted at this time due to their small size
 
  
-The North American set is in Landscape and done with a "drop shadow" effect and "non-standard" layout in the following sizes
+The North American set is in Landscape and done with a "drop shadow" effect and "non-standard" layout in the following sizes:
 
  * Letter
  * Legal
