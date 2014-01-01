@@ -36,6 +36,13 @@ The ISO set includes both Landscape and Portrait versions of the following:
  * ISO A5 (Title Block down scaled in both Landscape and Portrait templates)
  * ISO A6-A10 omitted at this time due to their small size
 
+ 
+The North American set is in Landscape and done with a "drop shadow" effect and "non-standard" layout in the following sizes
+
+ * Letter
+ * Legal
+ * Ledger
+ 
 
 Title_Block contains title blocks that can be used as alternatives to the ones included with the standard sheet sizes:
 
