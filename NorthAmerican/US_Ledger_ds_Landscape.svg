@@ -52,8 +52,7 @@
          id="stop3866-5"
          style="stop-color:#71b2f8;stop-opacity:1"
          offset="0" />
-      <stop
-         id="stop3868-3"
+      <stop         id="stop3868-3"
          style="stop-color:#002795;stop-opacity:1"
          offset="1" />
     </linearGradient>
@@ -78,6 +77,7 @@
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(0.6186598,0.9666542,-1.0332462,0.6612786,-327.27568,-255.84136)" />
   </defs>
+  <!-- Working space 20 21 410 258 -->
   <metadata
      id="metadata4550">
     <rdf:RDF>
